@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/1929-concatenation-of-array) |
@@ -29,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -59,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

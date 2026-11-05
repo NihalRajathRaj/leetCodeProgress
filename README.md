@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -73,5 +75,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

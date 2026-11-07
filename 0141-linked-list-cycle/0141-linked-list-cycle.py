@@ -4,21 +4,15 @@
 #         self.val = x
 #         self.next = None
 
+
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        def traverse(head):
-            while head:
-                yield head
-                head = head.next
-        
-        visited = set()
-        if head == None:
-            return False
+        slow = head
+        fast = head
 
-        for i, node in enumerate(traverse(head)):
-            if node in visited:
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+            if slow == fast:
                 return True
-            visited.add(node)
         return False
-
-        

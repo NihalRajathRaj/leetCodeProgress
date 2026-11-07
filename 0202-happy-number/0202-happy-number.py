@@ -5,8 +5,7 @@ class Solution:
             sum = 0
             for i, digit in enumerate(str(n)):
                 sum += (int(digit)) ** 2
-            n = sum
-            return n
+            return sum
 
         while n != 1:
             if n in visited:

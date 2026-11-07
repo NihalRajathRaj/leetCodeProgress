@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/1929-concatenation-of-array) |
 ## String
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0202-happy-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

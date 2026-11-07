@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0242-valid-anagram) |
+| [2351-first-letter-to-appear-twice](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |
 | ------- |
@@ -78,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0202-happy-number) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->

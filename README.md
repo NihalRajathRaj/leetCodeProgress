@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0977-squares-of-a-sorted-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0977-squares-of-a-sorted-array) |
@@ -99,5 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0169-majority-element) |
 | [2351-first-letter-to-appear-twice](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/2351-first-letter-to-appear-twice) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

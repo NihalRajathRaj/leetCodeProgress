@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0242-valid-anagram) |
 | [2351-first-letter-to-appear-twice](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0977-squares-of-a-sorted-array) |

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0485-max-consecutive-ones) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0242-valid-anagram) |
 | [2351-first-letter-to-appear-twice](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/2351-first-letter-to-appear-twice) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0202-happy-number) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |

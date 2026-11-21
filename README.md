@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
 ## Newton's Method

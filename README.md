@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0485-max-consecutive-ones) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0338-counting-bits) |

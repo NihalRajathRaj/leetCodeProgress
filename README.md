@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0415-add-strings) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2351-first-letter-to-appear-twice](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |

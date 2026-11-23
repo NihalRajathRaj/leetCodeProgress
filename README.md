@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0338-counting-bits) |
 ## Memoization
 |  |

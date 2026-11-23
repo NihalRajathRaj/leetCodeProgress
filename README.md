@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0977-squares-of-a-sorted-array) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0374-guess-number-higher-or-lower) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

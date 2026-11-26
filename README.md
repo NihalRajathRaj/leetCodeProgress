@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2396-strictly-palindromic-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/2396-strictly-palindromic-number) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2119-a-number-after-a-double-reversal](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/2119-a-number-after-a-double-reversal) |
+| [2396-strictly-palindromic-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/2396-strictly-palindromic-number) |
 | [3360-stone-removal-game](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/3360-stone-removal-game) |
 ## Binary Search
 |  |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

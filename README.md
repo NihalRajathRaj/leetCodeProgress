@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0643-maximum-average-subarray-i) |
+| [0877-stone-game](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/1470-shuffle-the-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0415-add-strings) |
+| [0877-stone-game](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2119-a-number-after-a-double-reversal](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/2119-a-number-after-a-double-reversal) |
 | [3360-stone-removal-game](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/3360-stone-removal-game) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0213-house-robber-ii](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0338-counting-bits) |
+| [0877-stone-game](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -187,4 +190,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0287-find-the-duplicate-number) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

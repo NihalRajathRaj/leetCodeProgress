@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0415-add-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2119-a-number-after-a-double-reversal](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/2119-a-number-after-a-double-reversal) |
+| [3360-stone-removal-game](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/3360-stone-removal-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/NihalRajathRaj/leetCodeProgress/tree/master/3360-stone-removal-game) |
 ## Linked List
 |  |
 | ------- |
